@@ -1,15 +1,13 @@
 # Tropical Forest Ecology Research Programme
-<!--
 
-**Here are some ideas to get you started:**
+The Tropical Forest Ecology Research (TFER) programme is coordinated by the Forest Ecology team at the Singapore Botanic Gardens, National Parks Board (Singapore).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Access management
+
+Current Forest Ecology staff will be added to respective teams which will give Read access to all repositories, as well as Write access to selected repositories for that team. When staff leave service, a discussion will be held on which repositories they will retain access to, if any. Access to these repositories will be added as external guests; they will otherwise be removed from the organisation by default.
+
+Likewise, interns will be given external guest access roles to specific repositories based on need.
 
 ## Tips
 
-Create a folder on your computer (e.g., called "TFER") and create all repositories from this organisation as sister folders inside. This will help to ensure cross-repo use of script, data, etc.
+* Create a folder on your computer (e.g., called "TFER") and create all repositories from this organisation as sister folders inside. This will help to ensure cross-repo use of script, data, etc.
