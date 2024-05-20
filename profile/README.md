@@ -4,9 +4,9 @@ The Tropical Forest Ecology Research (TFER) programme is coordinated by the Fore
 
 ## Access management
 
-Current Forest Ecology staff will be added to respective teams which will give Read access to all repositories, as well as Write access to selected repositories for that team. When staff leave service, a discussion will be held on which repositories they will retain access to, if any. They will then be given access to these repositories as external guests; they will otherwise be removed from the organisation by default.
+Current Forest Ecology staff will be added to respective teams which will give Read access to all repositories, as well as Write access to selected repositories for that team. When staff leave service, a discussion will be held on which repositories they will retain access to, if any. They will then be converted to outside collaborators and given access accordingly to these repositories; they will otherwise be removed from the organisation by default.
 
-Likewise, interns will be given external guest access roles to specific repositories based on need.
+Likewise, interns will be given "outside collaborators" access roles to specific repositories based on need.
 
 ## Tips
 
