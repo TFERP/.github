@@ -14,7 +14,7 @@ When generating products in the course of analysis, do consider if the products 
 
 Unclassified, i.e., Open data can be placed outside of this folder.
 
-Scripts that do not contain data are not considered data.
+Scripts in and of themselves are not considered data. Ensure that you do not embed any classified information in your scripts.
 
 Graphs, tables, and R Markdown files that are generated with the intent of scientific publication will eventually be classified as Open and hence can be treated as such.
 
