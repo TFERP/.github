@@ -23,3 +23,10 @@ After copying the GitHub repositories back to the Analytics.Gov GitLab projects,
 ## Tips
 
 * Create a folder on your computer (e.g., called "TFER") and clone all repositories from this organisation as sister folders inside. This will help to ensure cross-repo use of script, data, etc. It will also help to resolve the problem of same names for any repositories forked between organisations or with your personal GitHub account.
+
+## Useful resources
+
+* [R for Data Science](https://r4ds.had.co.nz/index.html)
+* [Geocomputation with R](https://r.geocompx.org/)
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+* [R Graphics Cookbook, 2nd ed.](https://r-graphics.org/)
